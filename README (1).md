@@ -84,7 +84,7 @@ I would like to sincerely thank my mentor Sravan Sir for his constant guidance, 
  This project involves the analysis of dress sales data to understand sales trends, customer demand, and overall performance. It focuses on organizing and evaluating sales information to identify patterns, measure growth, and present insights in a clear and meaningful way to support better business decisions.
 </p>
 <p>
-  <a href="https://github.com/sure-trust/SHIVARATHRI-ASHMITHA-g19-sql-and-powerbi/blob/f07ec54ded427d3e0c78a92eaa7d6e7200dbfa0c/Course%20report/SURE%20Trust%20project%20document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Ashmitha-shivarathri26/Dress-Sales/blob/main/SURE%20Trust%20project%20document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
